@@ -3,4 +3,4 @@ def add(a,b);
 def sub(a,b);
 	a-b
 def mul(a,b);
-	a*b
+	a*b #나누기이잉
